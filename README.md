@@ -1,5 +1,5 @@
 ### Hi there 👋
-**SebasGalvan/SebasGalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **SebasGalvan/SebasGalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on an Books App 
 - 🌱 I’m currently learning Vue & MongoDB
