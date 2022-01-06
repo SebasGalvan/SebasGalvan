@@ -8,5 +8,3 @@
 - 👨🏻‍🏫 Ask me about Python / Django / Javascript
 - 📫 How to reach me: sebastiangalvan.ar@gmail.com
 
-- 🌲🌲🌳🌳🌴🌴
-
