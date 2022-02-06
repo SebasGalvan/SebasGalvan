@@ -7,5 +7,3 @@
 
 - 👨🏻‍🏫 Ask me about Python / Django / Javascript
 - 📫 How to reach me: sebastiangalvan.ar@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SebasGalvan=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
