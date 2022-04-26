@@ -3,7 +3,7 @@
 
 <!-- - 📗 I am currently working on a book app -->
 - 👨🏻‍💻 I’m currently learning React.
-- 👨🏻‍🌾 I am looking to collaborate on projects with Pytohn / Django .
+- 👨🏻‍🌾 I am looking to collaborate on projects with Python / Django .
 
 - 👨🏻‍🏫 Ask me about Python / Django / Javascript
 - 📫 How to reach me: sebastiangalvan.ar@gmail.com
