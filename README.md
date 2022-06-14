@@ -2,7 +2,7 @@
 <!-- **SebasGalvan/SebasGalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 📗 I am currently working on a book app -->
-- 👨🏻‍💻 I’m currently learning React.
+- 👨🏻‍💻 I’m currently learning DS/DA.
 - 👨🏻‍🌾 I am looking to collaborate on projects with Python / Django .
 
 - 👨🏻‍🏫 Ask me about Python / Django / Javascript
