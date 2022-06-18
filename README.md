@@ -7,3 +7,4 @@
 
 - 👨🏻‍🏫 Ask me about Python / Django / Javascript
 - 📫 How to reach me: sebastiangalvan.ar@gmail.com
+- Cuenta 2 : [https://github.com/seba-arok]
