@@ -7,4 +7,3 @@
 
 - 👨🏻‍🏫 Ask me about JavaScript/ Node.
 - 📫 How to reach me: sebastiangalvan.ar@gmail.com
-- [https://github.com/seba-arok]
