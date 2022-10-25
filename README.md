@@ -3,6 +3,6 @@
 
 <!-- - 📗 I am currently working on a book app -->
 - 👨🏻‍💻 I’m currently learning NumPy/Pandas.
-- 👨🏻‍🌾 I am looking to collaborate on projects with Python & JavaScript.
+- 👨🏻‍🌾 I am looking to collaborate on projects with Java | Python & JavaScript.
 
 - 📫 How to reach me: sebastiangalvan.ar@gmail.com
