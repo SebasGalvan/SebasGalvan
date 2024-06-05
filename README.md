@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hola, Sebastian por aca ... 👋
 <!-- **SebasGalvan/SebasGalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- - 📗 I am currently working on a book app -->
-- 👨🏻‍💻 I’m currently learning NumPy/Pandas.
-- 👨🏻‍🌾 I am looking to collaborate on projects with Java & JavaScript, React | Python.
+📗 Actalamente estoy desarrollando una aplicacion de utiliades y carga masiva dinamica en Java/Spring Boot
+
+- 👨🏻‍💻 Actualmete estoy estudiando Kotlin.
+- 🐱‍👤 Quiero aprender GO. ✨
+- 🤖 Aprendiendo sobre Ciencias de Datos & AI. 
+- 🌀 Me gustaria colaborar en proyectos con React.
+
+- 💖 Python
