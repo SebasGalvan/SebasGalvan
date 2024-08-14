@@ -6,6 +6,21 @@
 - 👨🏻‍💻 Actualmete estoy estudiando Estadistica y Python.
 - 🐱‍👤 Quiero aprender GO. ✨
 - 🤖 Aprendiendo sobre Ciencias de Datos & AI. 
-- 🌀 Me gustaria colaborar en proyectos con React|Spring && Node|Express || Python | DS | ML || GO.
+- 🌀 Me gustaria colaborar en proyectos con React | Spring | Node | Express | Python.
 
 - 💖 Python
+
+
+### Lenguajes y Herramientas:
+
+- [![Mis Skills](
+https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react,java,git,nodejs,webpack,vite,vscode,idea,figma,ps,netlify,git,github,gitlab,go,python,spring,express,mysql,postgres,mongodb,docker,sqlite,r&perline=10)](https://skillicons.dev)
+
+
+### Habilidades en las que estoy mejorando:
+
+- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,angular,next,flask,fastapi,django&perline=10)](https://skillicons.dev)
+
+----
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebasGalvan&layout=compact&langs_count=8&theme=material-palenight"/>
