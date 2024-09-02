@@ -16,7 +16,7 @@ https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react,java,git,no
 
 ### Habilidades en las que estoy mejorando:
 
-- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,selenium,d3,kafka,sklearn,go&perline=10)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,selenium,d3,kafka,sklearn&perline=10)](https://skillicons.dev)
 
 ----
 
