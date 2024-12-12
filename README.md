@@ -1,9 +1,8 @@
 ### Hola, Sebastian por aca ... 👋
 
 - 👨🏻‍💻 Actualmete estoy estudiando Estadistica y Python.
-- 🐱‍👤 Quiero aprender GO. ✨
 - 🤖 Aprendiendo sobre Ciencias de Datos & AI. 
-- 🌀 Me gustaria colaborar en proyectos con  Python | Java | Spring | FASTAPI.
+- 🌀 Me gustaria colaborar en proyectos con  Python | Java | Spring Ai | FASTAPI.
 
 - 💖 Python
 
