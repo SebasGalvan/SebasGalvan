@@ -1,8 +1,13 @@
 Hello, Sebastian here ... 👋
+
 👨🏻‍💻 I'm currently studying Statistics and Python.
+
 🤖 Learning about Data Science & AI.
+
 🌀 I'd love to collaborate on projects using Python | Java | Spring Ai | FASTAPI.
+
 💖 Python
+
 Languages and Tools:
 
 [![My Skills](
