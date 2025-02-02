@@ -1,19 +1,15 @@
-### Hola, Sebastian por aca ... 👋
+Hello, Sebastian here ... 👋
+👨🏻‍💻 I'm currently studying Statistics and Python.
+🤖 Learning about Data Science & AI.
+🌀 I'd love to collaborate on projects using Python | Java | Spring Ai | FASTAPI.
+💖 Python
+Languages and Tools:
 
-- 👨🏻‍💻 Actualmete estoy estudiando Estadistica y Python.
-- 🤖 Aprendiendo sobre Ciencias de Datos & AI. 
-- 🌀 Me gustaria colaborar en proyectos con  Python | Java | Spring Ai | FASTAPI.
-
-- 💖 Python
-
-
-### Lenguajes y Herramientas:
-
-- [![Mis Skills](
+[![My Skills](
 https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,react,java,git,nodejs,webpack,vite,vscode,idea,figma,ps,netlify,git,github,gitlab,python,spring,express,mysql,postgres,mongodb,docker,sqlite,r,gradle,maven,hibernate,sequelize&perline=10)](https://skillicons.dev)
 
 
-### Habilidades en las que estoy mejorando:
+Skills I'm Improving:
 
 - [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,selenium,d3,kafka,sklearn&perline=10)](https://skillicons.dev)
 
