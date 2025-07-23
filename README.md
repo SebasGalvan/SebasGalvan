@@ -1,22 +1,20 @@
 Hello, Sebastian here ... 👋
 
-👨🏻‍💻 I'm currently studying Statistics and Python.
+👨🏻‍💻 I'm currently studying Python and DevOps.
 
-🤖 Learning about Data Science & AI.
-
-🌀 I'd love to collaborate on projects using Python | Java | Spring Ai | FASTAPI.
+🤖 Learning about AI.
 
 💖 Python
 
 Languages and Tools:
 
 [![My Skills](
-https://skillicons.dev/icons?i=spring,html,css,bootstrap,js,jquery,ts,react,java,git,nodejs,git,github,gitlab,python,express,mysql,postgres,mongodb,docker,sqlite,gradle,hibernate,sequelize&perline=10)](https://skillicons.dev)
+https://skillicons.dev/icons?i=spring,js,vite,jquery,ts,react,java,nodejs,python,express,mysql,postgres,mongodb,docker,vim,sqlite,sequelize,bash&perline=10)](https://skillicons.dev)
 
 
 Skills I'm Improving:
 
-- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,d3,kafka,sklearn&perline=10)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,kafka,sklearn,electron,opencv,pytorch,tensorflow&perline=10)](https://skillicons.dev)
 
 ----
 
