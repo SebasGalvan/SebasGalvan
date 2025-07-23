@@ -14,7 +14,7 @@ https://skillicons.dev/icons?i=spring,js,vite,jquery,ts,react,java,nodejs,python
 
 Skills I'm Improving:
 
-- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,kafka,sklearn,electron,opencv,pytorch,tensorflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,jest,next,flask,fastapi,django,aws,azure,kafka,sklearn,electron,opencv,pytorch,tensorflow&perline=10)](https://skillicons.dev)
 
 ----
 
